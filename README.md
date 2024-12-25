@@ -13,11 +13,6 @@ Doraemon 基于 Github Issues 的博客生成器。
 
 > [使用 Doraemon 的博客列表](https://github.com/gongchao/Doraemon/issues/1)
 
-<div>
-    <img width="650" src="http://blog-cdn.dian.io/2018-04-01-021850.png">
-</div>
-
-
 ## 使用方法
 
 > 创建一个仓库
